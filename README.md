@@ -16,4 +16,6 @@ This project analyzes survey-based numerical data (n = 113) to evaluate how bloc
 Real-time monitoring and fraud pattern detection show a strong positive impact on financial security.
 
 ## Tools
-- Microsoft Excel
+- Microsoft Excel (data preparation)
+- Tableau Public (data visualization and dashboarding)
+
